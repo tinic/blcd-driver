@@ -13,6 +13,6 @@ The following units have been tested:
 
 While these units are rated 140/310VDC they work fine with regular rectified AC power (170/338VDC) which makes the implementation simple/cheap.
 
-The parts used here are complete overkill but this is not designed for mass manufacturing and the price difference which cheaper parts was negligable.
+The parts used here are complete overkill but this is not designed for mass manufacturing and the price difference which cheaper parts was negligible in single digit units. The only special part here is the 15V DC/DC converter as using a couple of LDOs for this application would have caused excessive power use and heat. A constant current source like a capacitive dropper would not have worked either as the power consumption by these motors on the 15V rail is not constant.
 
 ![Alt text](ac-dc-converter.png)
