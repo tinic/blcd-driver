@@ -7,7 +7,6 @@ The following units have been tested:
 
 140VDC rated (on 120VAC power):
 - ZKFP-20-8-113
-- ZSQP-38-8-57L
 
 310VDC rated (on 240VAC power):
 - WZDK30-38G
