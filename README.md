@@ -1,7 +1,7 @@
 # blcd-driver
 Motor driver for brushless air conditioner motors
 
-This is a PCB design for typical adjustable brushless motors used in air conditioning units. These units are great since they are sealed and have ajustable speed while using very little power. I used them to drive a stirrer motor to replace the misspecced AC motors (model YYS6-2/110V/60Hz/0.15A) on the otherwise amazing KOMOS KRYO Inline Draft Beer Chillers which tend to fail quickly and generate extreme amounts of heat (~158F/70C measured). Power consumption is reduced from ~17W to around ~4W for my application while staying _completely_ cool. Torque is ecxellent but not exessive in case of obstructions.
+This is a PCB design for readily available adjustable brushless motors used in air conditioning units. These units are great since they are sealed and have ajustable speed while using very little power. I used them to drive a stirrer motor to replace the misspecced AC motors (model YYS6-2/110V/60Hz/0.15A) on the otherwise amazing KOMOS KRYO Inline Draft Beer Chillers which tend to fail quickly and generate extreme amounts of heat (~158F/70C measured). Power consumption is reduced from ~17W to around ~4W for my application while staying _completely_ cool. Torque is ecxellent but not exessive in case of obstructions.
 
 The following units have been tested:
 
