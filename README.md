@@ -23,3 +23,15 @@ Notes:
 New motor installed in the beer chiller:
 
 ![Alt text](assembly2.jpg)
+
+New stirrer motor with 3d printed blade on the left, old on the right:
+
+![Alt text](assembly3.jpg)
+
+The push in fitting were completely coooked by the old motor:
+
+![Alt text](assembly4.jpg)
+
+Full assembly of the new motor in the chiller, the PCB is othe bottom right:
+
+![Alt text](assembly5.jpg)
