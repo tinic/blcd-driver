@@ -11,4 +11,4 @@ The following units have been tested:
 310VDC rated (on 240VAC power):
 - WZDK30-38G
 
-While these units are rated 140/310VDC they work fine with regular rectified AC power (170/338VDC) which makes the implementation simple.
+While these units are rated 140/310VDC they work fine with regular rectified AC power (170/338VDC) which makes the implementation simple/cheap.
