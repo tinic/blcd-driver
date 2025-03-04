@@ -13,6 +13,6 @@ The following units have been tested:
 
 While these units are rated 140/310VDC they work fine with regular rectified AC power (170/338VDC) which makes the implementation simple/cheap.
 
-The parts used here are complete overkill but this is not designed for mass manufacturaing and the price difference which cheaper parts was negligable.
+The parts used here are complete overkill but this is not designed for mass manufacturing and the price difference which cheaper parts was negligable.
 
 ![Alt text](ac-dc-converter.png)
