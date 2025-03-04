@@ -19,4 +19,7 @@ Notes:
 
 ![Alt text](ac-dc-converter.png)
 ![Alt text](assembly1.jpg)
+
+New motor installed in the beer chiller:
+
 ![Alt text](assembly2.jpg)
