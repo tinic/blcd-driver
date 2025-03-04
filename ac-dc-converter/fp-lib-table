@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ac-dc-converter")(type "KiCad")(uri "${KIPRJMOD}/ac-dc-converter.pretty")(options "")(descr ""))
+)

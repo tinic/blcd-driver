@@ -1,0 +1,135 @@
+(footprint "IRM-10-15"
+	(version 20241228)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.3 -9 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "749c5de0-370c-40e4-9442-8c0473f8c0b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "IRM-10-15"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "53b12757-5cff-4d37-a83e-e20fb3cf9627")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 -8.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9fa30795-09b0-4e6e-a9bb-74e910265d69")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 -8.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b85d8eb-4ae9-4721-86ce-671348bb08b3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -23.45 -7.9)
+		(end 23.5 19)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "af7a3324-b4ea-4a79-b38c-78e18a6c1cb1")
+	)
+	(fp_rect
+		(start -23.875 -8.3)
+		(end 23.875 19.3)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "3a9225ef-d80b-416b-a9a2-bb5ce69e4530")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1b9e30d0-b1ee-4404-9fad-815667809d27")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -19.25 -4)
+		(size 2.25 2.25)
+		(drill 1.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ea7d2dbf-e606-4bb8-ac9a-2b1171f502c9")
+	)
+	(pad "2" thru_hole circle
+		(at -19.25 4)
+		(size 2.25 2.25)
+		(drill 1.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6dbce26f-5a7f-4865-bcd2-a0159588dd3e")
+	)
+	(pad "3" thru_hole circle
+		(at 19.25 6.75)
+		(size 2.25 2.25)
+		(drill 1.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4c776fe9-1547-417d-9e92-5ce24f2cbab1")
+	)
+	(pad "4" thru_hole circle
+		(at 19.25 -4)
+		(size 2.25 2.25)
+		(drill 1.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2e6e9609-c5fb-40e7-b033-8f5e83f37c7f")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/models/power_supply_irm-10-15.stp"
+		(offset
+			(xyz 0 -5.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)

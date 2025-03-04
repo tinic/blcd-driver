@@ -1,0 +1,231 @@
+(footprint "SU9HF07015"
+	(version 20241228)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SU9HF-07015-2")
+	(tags "Filter")
+	(property "Reference" "FL**"
+		(at 4 -3.5 0)
+		(layer "F.SilkS")
+		(uuid "3055ac7d-ab51-42dc-99d5-f12e0be5aba2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SU9HF07015"
+		(at 4 -3.5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c3182a6d-0ea3-4821-b929-8ab2371c103f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed5a4e77-f874-4f6d-8951-9d2818ed0129")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cdb7332b-1268-459f-a359-bcce67bdc543")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.5 -11.25)
+		(end 12.5 -11.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "95dae25f-286e-44ff-ad14-03f549b2c23a")
+	)
+	(fp_line
+		(start -4.5 4.25)
+		(end -4.5 -11.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1cfade48-a180-47ee-b943-2909374fbac3")
+	)
+	(fp_line
+		(start 12.5 -11.25)
+		(end 12.5 4.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2edc9478-b973-49c7-a337-01c997ebde4c")
+	)
+	(fp_line
+		(start 12.5 4.25)
+		(end -4.5 4.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "39f08aeb-944e-48cc-9806-2ec7cf5af5db")
+	)
+	(fp_line
+		(start -5.5 -12.25)
+		(end 13.5 -12.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ba5ed90d-35f5-4067-ad5d-fa672562c02a")
+	)
+	(fp_line
+		(start -5.5 5.25)
+		(end -5.5 -12.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "19ce1f4d-c17c-493e-ab2c-1cd011d8df54")
+	)
+	(fp_line
+		(start 13.5 -12.25)
+		(end 13.5 5.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2f36462f-95ba-41d0-b1cf-9f0482b347c3")
+	)
+	(fp_line
+		(start 13.5 5.25)
+		(end -5.5 5.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "98c776f5-c43e-47a4-a29e-ea0bcb377130")
+	)
+	(fp_line
+		(start -4.5 -11.25)
+		(end 12.5 -11.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b763dd35-ff42-4094-af87-d5ba394011ac")
+	)
+	(fp_line
+		(start -4.5 4.25)
+		(end -4.5 -11.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6f4fcdbf-ddf6-4faf-9625-6a2a909e44cb")
+	)
+	(fp_line
+		(start 12.5 -11.25)
+		(end 12.5 4.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "64b74765-d6f6-4b0a-9561-ed47e7311250")
+	)
+	(fp_line
+		(start 12.5 4.25)
+		(end -4.5 4.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "39d0c789-e3b2-4387-a36d-7e32ca0a8e9c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 4 -3.5 0)
+		(layer "F.Fab")
+		(uuid "5832497c-76b6-4cb6-8898-b74b41e6bea1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.3 1.3)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "76472865-2c2a-4174-bb66-dd5ed1130ca9")
+	)
+	(pad "2" thru_hole circle
+		(at 8 0)
+		(size 1.3 1.3)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1f95d660-86bf-4fba-8537-625028479ffc")
+	)
+	(pad "3" thru_hole circle
+		(at 8 -7)
+		(size 1.3 1.3)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6317fba3-5bfd-48b1-9bcb-a3e9d98d6934")
+	)
+	(pad "4" thru_hole circle
+		(at 0 -7)
+		(size 1.3 1.3)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "224eeed3-d425-4bcd-b5dd-4cb248d184d5")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/models/SU9HF-07015.step"
+		(offset
+			(xyz 24.75999986 3.479999967 -13.85999945)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
