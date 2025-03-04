@@ -32,6 +32,6 @@ The push in fittings were completely cooked by the old motor:
 
 ![Alt text](assembly4.jpg)
 
-Full assembly of the new motor in the chiller, the PCB is othe bottom right:
+Full assembly of the new motor in the chiller, the new PCB is on the bottom right:
 
 ![Alt text](assembly5.jpg)
