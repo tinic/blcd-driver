@@ -28,7 +28,7 @@ New stirrer motor with 3d printed blade on the left, old on the right:
 
 ![Alt text](assembly3.jpg)
 
-The push in fitting were completely cooked by the old motor:
+The push in fittings were completely cooked by the old motor:
 
 ![Alt text](assembly4.jpg)
 
